@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"outDir": "dist", // where to put the ts files
+		"target": "ES2017", // which level of js support to target
+	},
+	"include": [
+		"src" // which files to compile
+	]
+}
